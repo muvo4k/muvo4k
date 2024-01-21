@@ -4,9 +4,12 @@
 How to reach me
 
 
-Languages and Tools:
-bash c c++ c# git mysql python html css php javascript linux Photoshop DavinciResolve Nuke
+Skillset:
+- Object Oriented Programming
+- Functional Programming
+- ...
 
+Programming Languages:
 <p align="left" dir="auto"> 
   <a href="https://www.cprogramming.com/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="max-width: 100%;"> 
