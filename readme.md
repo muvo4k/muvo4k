@@ -13,7 +13,10 @@ bash c c++ c# git mysql python html css php javascript linux Photoshop DavinciRe
   </a>
   <a href="https://isocpp.org/std/the-standard" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="c" width="40" height="40" style="max-width: 100%;"> 
-  </a> 
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> 
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c" width="40" height="40" style="max-width: 100%;"> 
+  </a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow"> 
     <img src="https://camo.githubusercontent.com/93e24451f31be6bde3c380832f676128de66261b99c04adc42230fe9ab415733/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f636f6f5f666c61736b2f706f636f6f5f666c61736b2d69636f6e2e737667" alt="flask" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="max-width: 100%;"> 
   </a> <a href="https://git-scm.com/" rel="nofollow"> 
