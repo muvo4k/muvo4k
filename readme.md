@@ -1,4 +1,5 @@
-![image](https://github.com/muvo4k/muvo4k/assets/70693445/1eff09e1-db8e-4bb3-aa6c-86eddf75463c)# Marcus Horn
+
+<h1>Marcus Horn Github Profile</h1>
 ---
 
 How to reach me:
@@ -9,8 +10,6 @@ Skillset:
 - Object Oriented Programming
 - Functional Programming
 - ...
-
-<h1>Project Title</h1>
 
   <h2>Programming Languages</h2>
   <p align="left" dir="auto"> 
