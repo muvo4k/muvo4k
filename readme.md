@@ -42,9 +42,6 @@ Programming Languages:
   <a href="https://pytorch.org/" rel="nofollow"> 
       <img src="https://camo.githubusercontent.com/1e72f25c526d43089e8363a10ac4d99eb6e1cf613652c659d77bcdeeda657356/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667" alt="pytorch" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="max-width: 100%;"> 
   </a> 
-  <a href="https://www.qt.io/" rel="nofollow"> 
-    <img src="https://camo.githubusercontent.com/5e47fa7eeba428dcbf87fec579546aee07f01adff1a96a3e658af3cde9368db6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30622f51745f6c6f676f5f323031362e737667" alt="qt" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="max-width: 100%;"> 
-  </a> 
   <a href="https://scikit-learn.org/" rel="nofollow"> 
     <img src="https://camo.githubusercontent.com/4592b4c82382213c9b29aec5d01698ae1a6f2121747bbeb649e1ec56263f6921/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" alt="scikit_learn" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width: 100%;"> 
   </a> 
@@ -69,7 +66,9 @@ Coding Toolset:
 </p>
 Frameworks:
 <p>
-  
+  <a href="https://www.qt.io/" rel="nofollow"> 
+    <img src="https://camo.githubusercontent.com/5e47fa7eeba428dcbf87fec579546aee07f01adff1a96a3e658af3cde9368db6/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30622f51745f6c6f676f5f323031362e737667" alt="qt" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" style="max-width: 100%;"> 
+  </a> 
 </p>
 Compositing Toolset:
 <p>
