@@ -10,39 +10,7 @@ Skillset:
 - Functional Programming
 - ...
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* CSS for arranging topics in a single line */
-    body {
-      font-family: 'Arial', sans-serif;
-    }
-
-    p {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      margin-bottom: 20px; /* Adjust margin between sections if needed */
-    }
-
-    p a {
-      margin-right: 10px; /* Adjust spacing between icons if needed */
-      text-decoration: none; /* Remove underline from links */
-    }
-
-    p img {
-      max-width: 100%;
-      height: auto;
-    }
-  </style>
-  <title>Your README Title</title>
-</head>
-<body>
-
-  <h1>Project Title</h1>
+<h1>Project Title</h1>
 
   <h2>Programming Languages</h2>
   <p align="left" dir="auto"> 
@@ -129,9 +97,6 @@ Skillset:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"> 
     </a>
   </p>
-
-</body>
-</html>
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muvo4k&show_icons=true&locale=en&layout=compact)
