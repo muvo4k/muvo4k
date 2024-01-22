@@ -24,8 +24,8 @@ Programming Languages:
   <a href="https://www.python.org" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> 
   </a>
-Database Toolset:
 <p>
+Database Toolset:
   <a href="https://www.mysql.com/" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> 
   </a> 
