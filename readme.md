@@ -76,8 +76,8 @@ Compositing Toolset:
   <a href="https://www.photoshop.com/en" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> 
   </a>
-    <a href="https://www.photoshop.com/en" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg)" alt="photoshop" width="40" height="40" style="max-width: 100%;"> 
+    <a href="https://www.illustrator.com/en" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> 
   </a>
 </p>
 Environments
@@ -89,7 +89,7 @@ Environments
 Webdevelopment:
 <p>
   <a href="https://gohugo.io" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg)" alt="hugo" width="40" height="40" style="max-width: 100%;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40" style="max-width: 100%;">
   </a>
 </p>
 
