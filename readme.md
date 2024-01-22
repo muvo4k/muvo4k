@@ -1,4 +1,4 @@
-# Marcus Horn
+![image](https://github.com/muvo4k/muvo4k/assets/70693445/1eff09e1-db8e-4bb3-aa6c-86eddf75463c)# Marcus Horn
 ---
 
 How to reach me
@@ -94,6 +94,9 @@ Webdevelopment:
   <a href="https://gohugo.io" rel="nofollow">
     <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40" style="max-width: 100%;">
   </a>
+    <a href="https://gohugo.io" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="hugo" width="40" height="40" style="max-width: 100%;">
+    </a>
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muvo4k&show_icons=true&locale=en&layout=compact)
