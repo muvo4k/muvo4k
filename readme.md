@@ -76,8 +76,11 @@ Compositing Toolset:
   <a href="https://www.photoshop.com/en" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> 
   </a>
-    <a href="https://www.illustrator.com/en" rel="nofollow"> 
+  <a href="https://www.illustrator.com/en" rel="nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> 
+  </a>
+  <a href="https://www.premierepro.com/en" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> 
   </a>
 </p>
 Environments
