@@ -56,9 +56,6 @@ Programming Languages:
   </a> 
   <a href="https://www.tensorflow.org" rel="nofollow"> 
         <img src="https://camo.githubusercontent.com/008f20e996511a8c19cea632dccfb69bd00613935b3fea3b36ce75c486713573/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="max-width: 100%;"> 
-  </a>
-  <a href="https://www.anaconda.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40" style="max-width: 100%;">
   </a> 
 </p>
 Coding Toolset:
@@ -82,6 +79,15 @@ Compositing Toolset:
 </p>
 Environments
 <p>
+  <a href="https://www.anaconda.com" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="40" height="40" style="max-width: 100%;">
+  </a>
+</p>
+Webdevelopment:
+<p>
+  <a href="https://gohugo.io" rel="nofollow">
+    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg)" alt="hugo" width="40" height="40" style="max-width: 100%;">
+  </a>
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=muvo4k&show_icons=true&locale=en&layout=compact)
