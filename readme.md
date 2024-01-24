@@ -1,5 +1,4 @@
-
-<h1>Marcus Horn Github Profile</h1>
+<h1>Marcus Horn</h1>
 
 How to reach me:
 marcus@becomelight.net
