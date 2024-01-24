@@ -7,7 +7,7 @@ marcus@becomelight.net
 Skillset:
 - Object Oriented Programming
 - Functional Programming
-- ...
+- Image Compositing
 
   <h2>Programming Languages</h2>
   <p align="left" dir="auto"> 
