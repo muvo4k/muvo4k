@@ -8,6 +8,7 @@ Skillset:
 - Object Oriented Programming
 - Functional Programming
 - Image Compositing
+- Applied Machine Learning for Generative AI
 
   <h2>Programming Languages</h2>
   <p align="left" dir="auto"> 
