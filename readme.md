@@ -1,7 +1,7 @@
 <h1>Marcus Horn</h1>
 
 How to reach me:
-marcus@becomelight.net
+marcus@timetravelers.tech
 
 
 Skillset:
