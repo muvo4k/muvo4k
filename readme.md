@@ -22,6 +22,9 @@ Skillset:
       <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"> 
     </a>
     <a href="https://www.python.org" rel="nofollow"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="python" width="40" height="40"> 
+    </a>
+    <a href="https://www.python.org" rel="nofollow"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
     </a>
   </p>
