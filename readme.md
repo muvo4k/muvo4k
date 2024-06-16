@@ -13,19 +13,23 @@ Skillset:
   <h2>Programming Languages</h2>
   <p align="left" dir="auto"> 
     <a href="https://www.cprogramming.com/" rel="nofollow"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c programming language icon" width="40" height="40"> 
     </a>
     <a href="https://isocpp.org/std/the-standard" rel="nofollow"> 
-      <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="cpp" width="40" height="40"> 
+      <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="cpp programming language icon" width="40" height="40"> 
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> 
-      <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"> 
+      <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp icon" width="40" height="40"> 
+    </a>
+    <a href="https://prev.rust-lang.org/" rel="nofollow"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="rust programming language icon" width="40" height="40"> 
     </a>
     <a href="https://www.python.org" rel="nofollow"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="python" width="40" height="40"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python programming language icon" width="40" height="40"> 
     </a>
-    <a href="https://www.python.org" rel="nofollow"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
+    </a>
+    <a href="https://www.w3schools.com/js/" rel="nofollow"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="javascript programming language icon" width="40" height="40"> 
     </a>
   </p>
 
