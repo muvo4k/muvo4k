@@ -3,6 +3,7 @@
 
 <h2>Skillset</h2>
 <ul>
+  <li>Microcontroller Architecture<li>
   <li>Object Oriented Programming</li>
   <li>Functional Programming</li>
   <li>Image Compositing</li>
