@@ -18,6 +18,12 @@ Skillset:
     <a href="https://isocpp.org/std/the-standard" rel="nofollow"> 
       <img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="cpp programming language icon" width="40" height="40"> 
     </a>
+    <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC" rel="nofollow"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" alt="objective c language icon" width="40" height="40"> 
+    </a>
+    <a href="https://www.swift.org" rel="nofollow"> 
+      <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" alt="swift language icon" width="40" height="40"> 
+    </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> 
       <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp icon" width="40" height="40"> 
     </a>
