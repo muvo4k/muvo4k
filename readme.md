@@ -86,7 +86,13 @@ Skillset:
   <p>
     <a href="https://www.qt.io/" rel="nofollow"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"> 
-    </a> 
+    </a>
+    <a href="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" rel="nofollow"> 
+      <img src="https://react.dev/" alt="react framework logo" width="40" height="40"> 
+    </a>
+      <a href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" rel="nofollow"> 
+      <img src="https://getbootstrap.com/" alt="bootstrap logo" width="40" height="40"> 
+    </a>
   </p>
 
   <h2>Compositing Toolset</h2>
