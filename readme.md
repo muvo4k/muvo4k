@@ -38,6 +38,16 @@ Skillset:
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="javascript programming language icon" width="40" height="40"> 
     </a>
   </p>
+  <h2>Programming Paradigms Toolset</h2>
+  <p>Procedural Programming</p>
+  <p>Object Oriented Programming</p>
+  <p>Parallel Programming</p>
+  <h3>Imperative Programming Paradigms</h3>
+  <p>Logic Programming</p>
+  <p>Functional Programming</p>
+  <p>Database Processing Approach</p>
+  
+  <h3>Declaritive Programming Paradigms</h3>
 
   <h2>Database Toolset</h2>
   <p>
