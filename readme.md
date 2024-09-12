@@ -36,8 +36,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
   </a>
 </p>
-
 <h2>Programming Paradigms Toolset</h2>
+<h3>Declarative Programming Paradigms</h3>
 <ul>
   <li>Procedural Programming</li>
   <li>Object Oriented Programming</li>
@@ -50,8 +50,6 @@
   <li>Functional Programming</li>
   <li>Database Processing Approach</li>
 </ul>
-
-<h3>Declarative Programming Paradigms</h3>
 
 <h2>Database Toolset</h2>
 <p>
