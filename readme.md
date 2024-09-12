@@ -7,6 +7,10 @@
   <li>Assembly</li>
   <li>Object Oriented Programming</li>
   <li>Functional Programming</li>
+  <li>Multi Threading</li>
+  <li>Network</li>
+  <li>Security</li>
+  <li>Cross Platform Integration</li>
   <li>Image Compositing</li>
   <li>Applied Machine Learning for Generative AI</li>
 </ul>
