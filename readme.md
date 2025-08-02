@@ -47,21 +47,32 @@
 </ul>
 <p align="left">
   <a href="https://react.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
-  <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"></a>
+  <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
   <a href="https://gohugo.io" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
   <a href="https://wordpress.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"></a>
 </p>
 
+<h3>Cloud Platforms</h3>
+<p><i>Experience with major cloud service providers for scalable and resilient infrastructure.</i></p>
+<ul>
+    <li>Amazon Web Services (AWS)</li>
+    <li>Microsoft Azure</li>
+</ul>
+<p align="left">
+    <a href="https://aws.amazon.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"></a>
+    <a href="https://azure.microsoft.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"></a>
+</p>
 
 <h3>DevOps & Containerization</h3>
 <p><i>Experience with modern development operations, automation, and version control workflows.</i></p>
 <ul>
-  <li><strong>Workflow Automation:</strong> Apache Airflow, n8n</li>
+  <li><strong>Workflow & ETL Orchestration:</strong> Apache Airflow (DAGs), n8n</li>
   <li><strong>Containerization:</strong> Docker, Kubernetes</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
 </ul>
 <p align="left">
+  <a href="https://airflow.apache.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"></a>
   <a href="https://n8n.io/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/n8n-io/n8n-io-icon.svg" alt="n8n" width="40" height="40"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
 </p>
@@ -126,6 +137,16 @@
   <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
   <a href="https://www.postgresql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
 </p>
+
+<hr>
+
+<h2>Exploring & Learning</h2>
+<p><i>Continuously expanding my skillset and currently focusing on the following technologies.</i></p>
+<ul>
+    <li>Go (Golang)</li>
+    <li>Terraform</li>
+    <li>Advanced Kubernetes Concepts</li>
+</ul>
 
 <hr>
 
