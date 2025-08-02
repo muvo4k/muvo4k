@@ -57,7 +57,7 @@
 <h3>DevOps & Containerization</h3>
 <p><i>Experience with modern development operations, automation, and version control workflows.</i></p>
 <ul>
-  <li><strong>Workflow Automation:</strong> n8n</li>
+  <li><strong>Workflow Automation:</strong> Apache Airflow, n8n</li>
   <li><strong>Containerization:</strong> Docker, Kubernetes</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
 </ul>
