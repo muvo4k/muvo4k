@@ -76,7 +76,7 @@
 </ul>
 <p align="left">
   <a href="https://airflow.apache.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"></a>
-  <a href="https://n8n.io/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/n8n-io/n8n-io-icon.svg" alt="n8n" width="40" height="40"></a>
+  <a href="https://n8n.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
 </p>
 
