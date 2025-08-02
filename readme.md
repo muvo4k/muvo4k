@@ -42,12 +42,15 @@
 <p><i>Proficient in building and deploying end-to-end web applications.</i></p>
 <ul>
     <li><strong>Frontend:</strong> React, Bootstrap, HTML5, CSS3</li>
-    <li><strong>Backend:</strong> Flask (Python)</li>
+    <li><strong>Backend:</strong> Node.js, Flask (Python)</li>
+    <li><strong>E-Commerce:</strong> Shopify</li>
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
 </ul>
 <p align="left">
   <a href="https://react.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
+  <a href="https://nodejs.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
+  <a href="https://www.shopify.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
   <a href="https://gohugo.io" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
   <a href="https://wordpress.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"></a>
