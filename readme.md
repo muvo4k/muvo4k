@@ -55,12 +55,14 @@
 
 
 <h3>DevOps & Containerization</h3>
-<p><i>Experience with modern development operations, containerization, and version control workflows.</i></p>
+<p><i>Experience with modern development operations, automation, and version control workflows.</i></p>
 <ul>
+  <li><strong>Workflow Automation:</strong> n8n</li>
   <li><strong>Containerization:</strong> Docker, Kubernetes</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
 </ul>
 <p align="left">
+  <a href="https://n8n.io/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/n8n-io/n8n-io-icon.svg" alt="n8n" width="40" height="40"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
 </p>
 
