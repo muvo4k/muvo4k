@@ -15,14 +15,14 @@
   <li><strong>Command Line:</strong> Bash / Shell Scripting</li>
 </ul>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
-  <a href="https://isocpp.org/std/the-standard" rel="nofollow"><img src="https://raw.githubusercontent.com/isocpp/logos/64ef037049f87ac74875dbe72695e59118b52186/cpp_logo.svg" alt="C++" width="40" height="40"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="Objective C" width="40" height="40"></a>
-  <a href="https://www.swift.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"></a>
-  <a href="https://prev.rust-lang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"></a>
-  <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
-  <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
+  <a href="https://isocpp.org/std/the-standard" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="Objective C" width="40" height="40"></a>
+  <a href="https://www.swift.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original-wordmark.svg" alt="Swift" width="40" height="40"></a>
+  <a href="https://prev.rust-lang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"></a>
+  <a href="https://www.python.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+  <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
 </p>
 
 <h3>Programming Paradigms</h3>
@@ -47,13 +47,13 @@
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
 </ul>
 <p align="left">
-  <a href="https://react.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
-  <a href="https://nodejs.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
-  <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
-  <a href="https://www.shopify.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg?v=2" alt="Shopify" width="40" height="40"></a>
-  <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
-  <a href="https://gohugo.io" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
-  <a href="https://wordpress.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"></a>
+  <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
+  <a href="https://nodejs.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
+  <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
+  <a href="https://www.shopify.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40"></a>
+  <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
+  <a href="https://gohugo.io" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
+  <a href="https://wordpress.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"></a>
 </p>
 
 <h3>Cloud Platforms</h3>
@@ -63,8 +63,8 @@
     <li>Microsoft Azure</li>
 </ul>
 <p align="left">
-    <a href="https://aws.amazon.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"></a>
-    <a href="https://azure.microsoft.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"></a>
+    <a href="https://aws.amazon.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"></a>
+    <a href="https://azure.microsoft.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"></a>
 </p>
 
 <h3>DevOps & Containerization</h3>
@@ -75,9 +75,9 @@
   <li><strong>Version Control:</strong> Git, GitHub</li>
 </ul>
 <p align="left">
-  <a href="https://airflow.apache.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"></a>
-  <a href="https://n8n.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg?v=2" alt="n8n" width="40" height="40"></a>
-  <a href="https://git-scm.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
+  <a href="https://airflow.apache.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"></a>
+  <a href="https://n8n.io/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"></a>
+  <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
 </p>
 
 <hr>
@@ -92,9 +92,9 @@
   <li><strong>Environment:</strong> Anaconda</li>
 </ul>
 <p align="left">
-  <a href="https://pytorch.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"></a>
-  <a href="https://www.tensorflow.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"></a>
-  <a href="https://www.anaconda.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"></a>
+  <a href="https://pytorch.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"></a>
+  <a href="https://www.tensorflow.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"></a>
+  <a href="https://www.anaconda.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40"></a>
 </p>
 
 <h3>Embedded Systems & Architecture</h3>
@@ -113,10 +113,10 @@
   <li><strong>Creative Suite:</strong> Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro</li>
 </ul>
 <p align="left">
-  <a href="https://www.qt.io/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"></a>
-  <a href="https://www.photoshop.com/en" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"></a>
-  <a href="https://www.illustrator.com/en" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"></a>
-  <a href="https://www.premierepro.com/en" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" alt="Premiere Pro" width="40" height="40"></a>
+  <a href="https://www.qt.io/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"></a>
+  <a href="https://www.photoshop.com/en" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"></a>
+  <a href="https://www.illustrator.com/en" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"></a>
+  <a href="https://www.premierepro.com/en" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" alt="Premiere Pro" width="40" height="40"></a>
 </p>
 
 <hr>
@@ -137,8 +137,8 @@
   <li><strong>SQL Databases:</strong> MySQL, PostgreSQL</li>
 </ul>
 <p align="left">
-  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
-  <a href="https://www.postgresql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
+  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
+  <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
 </p>
 
 <hr>
