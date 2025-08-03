@@ -14,6 +14,7 @@
   <li><strong>Low-Level:</strong> Assembly</li>
   <li><strong>Command Line:</strong> Bash / Shell Scripting</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left"> 
   <a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
   <a href="https://isocpp.org/std/the-standard" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
@@ -25,7 +26,7 @@
   <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
 </p>
 
-<h3>Programming Paradigms</h3>
+<h3>Programming Paradigms & Architecture</h3>
 <p><i>Deep understanding of software design principles and architectures.</i></p>
 <ul>
   <li>Object-Oriented Programming (OOP)</li>
@@ -38,6 +39,12 @@
 
 <h2>Web Development & Cloud Technologies</h2>
 
+<h3>API Design & Development</h3>
+<p><i>Designing and building robust and scalable APIs for system communication.</i></p>
+<ul>
+    <li>REST API Design & Implementation</li>
+</ul>
+
 <h3>Full-Stack Development</h3>
 <p><i>Proficient in building and deploying end-to-end web applications.</i></p>
 <ul>
@@ -46,10 +53,12 @@
     <li><strong>E-Commerce:</strong> Shopify</li>
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left">
   <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
   <a href="https://nodejs.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
+  <a href="https://www.shopify.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" alt="Shopify" width="40" height="40"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
   <a href="https://gohugo.io" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
   <a href="https://wordpress.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"></a>
@@ -61,6 +70,7 @@
     <li>Amazon Web Services (AWS)</li>
     <li>Microsoft Azure</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left">
     <a href="https://aws.amazon.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"></a>
     <a href="https://azure.microsoft.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"></a>
@@ -73,8 +83,10 @@
   <li><strong>Containerization:</strong> Docker, Kubernetes</li>
   <li><strong>Version Control:</strong> Git, GitHub</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left">
   <a href="https://airflow.apache.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"></a>
+  <a href="https://n8n.io/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/n8n/n8n-original.svg" alt="n8n" width="40" height="40"></a>
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"></a>
 </p>
 
@@ -89,6 +101,7 @@
   <li><strong>Frameworks:</strong> PyTorch, TensorFlow</li>
   <li><strong>Environment:</strong> Anaconda</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left">
   <a href="https://pytorch.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"></a>
   <a href="https://www.tensorflow.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"></a>
@@ -110,6 +123,7 @@
   <li><strong>GUI Frameworks:</strong> Qt</li>
   <li><strong>Creative Suite:</strong> Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left">
   <a href="https://www.qt.io/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"></a>
   <a href="https://www.photoshop.com/en" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"></a>
@@ -134,10 +148,18 @@
 <ul>
   <li><strong>SQL Databases:</strong> MySQL, PostgreSQL</li>
 </ul>
+<!-- Icons bleiben unverändert -->
 <p align="left">
   <a href="https://www.mysql.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
   <a href="https://www.postgresql.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"></a>
 </p>
+
+<hr>
+
+<h2>Certifications</h2>
+<ul>
+    <li>Microsoft Certified Professional (MCP)</li>
+</ul>
 
 <hr>
 
