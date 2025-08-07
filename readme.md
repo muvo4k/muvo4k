@@ -12,7 +12,7 @@
   <li><strong>Application & Scripting:</strong> Python, C#, Swift, JavaScript</li>
   <li><strong>Legacy & Mobile:</strong> Objective-C</li>
   <li><strong>Low-Level:</strong> Assembly</li>
-  <li><strong>Command Line:</strong> Bash / Shell Scripting</li>
+  <li><strong>Command Line:</strong> Bash / Shell, Windows Scripting (Batch, PowerShell)</li>
 </ul>
 <p align="left"> 
   <a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
@@ -23,6 +23,8 @@
   <a href="https://www.rust-lang.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"></a>
   <a href="https://www.python.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
   <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"></a>
 </p>
 
 <h3>Programming Paradigms & Architecture</h3>
@@ -48,13 +50,14 @@
 <h3>Full-Stack Development</h3>
 <p><i>Proficient in building and deploying end-to-end web applications.</i></p>
 <ul>
-    <li><strong>Frontend:</strong> React, Bootstrap, HTML5, CSS3</li>
+    <li><strong>Frontend:</strong> React, Next.js, Bootstrap, HTML5, CSS3</li>
     <li><strong>Backend:</strong> Node.js, Flask (Python)</li>
     <li><strong>E-Commerce:</strong> Shopify</li>
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
 </ul>
 <p align="left">
   <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
+  <a href="https://nextjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"></a>
   <a href="https://nodejs.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
@@ -144,6 +147,17 @@
 <hr>
 
 <h2>Core Computer Science & Infrastructure</h2>
+
+<h3>Operating Systems & Administration</h3>
+<p><i>Deep expertise in managing, configuring, and securing Linux-based environments.</i></p>
+<ul>
+  <li>Linux System Administration</li>
+  <li>Network Configuration & Management</li>
+  <li>System Hardening & Security</li>
+</ul>
+<p align="left">
+  <a href="https://www.linux.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></a>
+</p>
 
 <h3>Systems & Networking</h3>
 <p><i>Fundamental knowledge of how software interacts with hardware and networks.</i></p>
