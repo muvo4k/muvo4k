@@ -9,7 +9,7 @@
 <p><i>A polyglot developer with expertise spanning from low-level systems to high-level applications.</i></p>
 <ul>
   <li><strong>Systems Programming:</strong> C, C++, Rust</li>
-  <li><strong>Application & Scripting:</strong> Python, C#, Swift, JavaScript</li>
+  <li><strong>Application & Scripting:</strong> Python, C#, Swift, JavaScript, TypeScript</li>
   <li><strong>Legacy & Mobile:</strong> Objective-C</li>
   <li><strong>Low-Level:</strong> Assembly</li>
   <li><strong>Command Line:</strong> Bash / Shell, Windows Scripting (Batch, PowerShell)</li>
@@ -23,6 +23,7 @@
   <a href="https://www.rust-lang.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"></a>
   <a href="https://www.python.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
   <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
   <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"></a>
   <a href="https://learn.microsoft.com/en-us/powershell/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"></a>
 </p>
