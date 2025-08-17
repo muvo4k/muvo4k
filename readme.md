@@ -51,15 +51,18 @@
 <h3>Full-Stack Development</h3>
 <p><i>Proficient in building and deploying end-to-end web applications.</i></p>
 <ul>
-    <li><strong>Frontend:</strong> React, Next.js, Bootstrap, HTML5, CSS3</li>
-    <li><strong>Backend:</strong> Node.js, Flask (Python)</li>
+    <li><strong>Frontend:</strong> React, Angular, Next.js, Bootstrap, HTML5, CSS3</li>
+    <li><strong>Backend:</strong> Node.js, Express.js, Django, Flask (Python)</li>
     <li><strong>E-Commerce:</strong> Shopify</li>
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
 </ul>
 <p align="left">
   <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
+  <a href="https://angular.io" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"></a>
   <a href="https://nextjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"></a>
   <a href="https://nodejs.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
+  <a href="https://expressjs.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express.js" width="40" height="40"></a>
+  <a href="https://www.djangoproject.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="40" height="40"></a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
   <a href="https://gohugo.io" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
