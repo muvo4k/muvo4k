@@ -52,7 +52,7 @@
 <h3>Full-Stack Development</h3>
 <p><i>Proficient in building and deploying end-to-end web applications.</i></p>
 <ul>
-    <li><strong>Frontend:</strong> React, Angular, Next.js, Bootstrap, HTML5, CSS3</li>
+    <li><strong>Frontend:</strong> React, Angular, Next.js, Bootstrap, HTML5, CSS3, Jinja</li>
     <li><strong>Backend:</strong> Node.js, Express.js, Django, Flask (Python)</li>
     <li><strong>E-Commerce:</strong> Shopify</li>
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
