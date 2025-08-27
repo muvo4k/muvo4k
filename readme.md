@@ -52,8 +52,8 @@
 <h3>Full-Stack Development</h3>
 <p><i>Proficient in building and deploying end-to-end web applications.</i></p>
 <ul>
-    <!-- ADDED SASS TO THIS LIST -->
-    <li><strong>Frontend:</strong> React, React Native, Angular, Next.js, Bootstrap, HTML5, CSS3, SASS, Jinja</li>
+    <!-- ADDED EXPO TO THIS LIST -->
+    <li><strong>Frontend:</strong> React, React Native, Expo, Angular, Next.js, Bootstrap, HTML5, CSS3, SASS, Jinja</li>
     <li><strong>Backend:</strong> Node.js, Express.js, Django, Flask (Python)</li>
     <li><strong>E-Commerce:</strong> Shopify</li>
     <li><strong>Static Site & CMS:</strong> Hugo, WordPress</li>
@@ -61,6 +61,8 @@
 <p align="left">
   <a href="https://react.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
   <a href="https://reactnative.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React Native" width="40" height="40"></a>
+  <!-- ADDED EXPO LOGO HERE -->
+  <a href="https://expo.dev/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"></a>
   <a href="https://angular.io" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"></a>
   <a href="https://nextjs.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"></a>
   <a href="https://nodejs.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a>
@@ -68,7 +70,6 @@
   <a href="https://www.djangoproject.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="40" height="40"></a>
   <a href="https://flask.palletsprojects.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"></a>
   <a href="https://getbootstrap.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
-  <!-- ADDED SASS LOGO HERE -->
   <a href="https://sass-lang.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a>
   <a href="https://gohugo.io" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" alt="Hugo" width="40" height="40"></a>
   <a href="https://wordpress.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"></a>
