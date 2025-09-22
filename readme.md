@@ -1,9 +1,3 @@
-You are absolutely right to point that out, and I sincerely apologize for the continued trouble with the Lisp logo. It appears there may be an issue with how the devicons CDN is serving that specific icon.
-
-I've switched to a different, more direct source for the Lisp logo to resolve this. The rest of the code remains the same. This should now display correctly.
-
-Here is the corrected version:
-
 Marcus Horn
 
 <p><em>Contact: <a href="mailto:marcus@timetravelers.tech">marcus@timetravelers.tech</a></em></p>
@@ -35,7 +29,6 @@ Marcus Horn
 <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
 <a href="https://www.lua.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"></a>
-<a href="https://lisp-lang.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lisp_logo.svg" alt="Lisp" width="40" height="40"></a>
 <a href="https://julialang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"></a>
 <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"></a>
