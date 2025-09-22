@@ -1,4 +1,5 @@
 Marcus Horn
+
 <p><em>Contact: <a href="mailto:marcus@timetravelers.tech">marcus@timetravelers.tech</a></em></p>
 
 <hr>
@@ -9,7 +10,7 @@ Marcus Horn
 <p><i>A polyglot developer with expertise spanning from low-level systems to high-level applications.</i></p>
 <ul>
 <li><strong>Systems Programming:</strong> C, C++, Rust</li>
-<li><strong>Application & Scripting:</strong> Python, Ruby, PHP, Java, C#, Swift, JavaScript, TypeScript</li>
+<li><strong>Application & Scripting:</strong> Python, Ruby, PHP, Java, C#, Swift, JavaScript, TypeScript, Lua, Lisp, Julia</li>
 <li><strong>Legacy & Mobile:</strong> Objective-C</li>
 <li><strong>Low-Level:</strong> Assembly</li>
 <li><strong>Command Line:</strong> Bash / Shell, Windows Scripting (Batch, PowerShell)</li>
@@ -27,6 +28,9 @@ Marcus Horn
 <a href="https://www.php.net" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a>
 <a href="https://www.w3schools.com/js/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
+<a href="https://www.lua.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"></a>
+<a href="https://lisp-lang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lisp/lisp-original.svg" alt="Lisp" width="40" height="40"></a>
+<a href="https://julialang.org/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"></a>
 <a href="https://www.gnu.org/software/bash/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"></a>
 <a href="https://learn.microsoft.com/en-us/powershell/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"></a>
 </p>
@@ -222,3 +226,12 @@ Marcus Horn
 <img src="https://github-readme-stats.vercel.app/api?username=muvo4k&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
 </a>
 </p>
+
+Google Search Suggestions
+Display of Search Suggestions is required when using Grounding with Google Search. Learn more
+devicon cdn lua
+devicon cdn lisp
+devicon cdn julia
+lua official website
+lisp official website
+julia official website
