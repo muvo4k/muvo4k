@@ -40,6 +40,7 @@ Marcus Horn
 <li>Functional Programming (FP)</li>
 <li>Microservices Architecture</li>
 <li>Domain-Driven Design (DDD)</li>
+<li>Single Responsibility Principle (SRP)</li>
 <li>Parallel Programming & Multi-Threading</li>
 </ul>
 
