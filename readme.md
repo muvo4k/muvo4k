@@ -9,7 +9,7 @@ Marcus Horn
 <h3>Languages</h3>
 <p><i>A polyglot developer with expertise spanning from low-level systems to high-level applications.</i></p>
 <ul>
-<li><strong>Systems Programming:</strong> C, C++, Rust</li>
+<li><strong>Systems Programming:</strong> C (C99 Upward), C++, Rust</li>
 <li><strong>Application & Scripting:</strong> Python, Ruby, PHP, Java, Swift, JavaScript, TypeScript, Lua, Lisp, Julia</li>
 <li><strong>Legacy & Mobile:</strong> Objective-C</li>
 <li><strong>Low-Level:</strong> Assembly</li>
