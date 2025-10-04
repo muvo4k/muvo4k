@@ -10,7 +10,7 @@ Marcus Horn
 <p><i>A polyglot developer with expertise spanning from low-level systems to high-level applications.</i></p>
 <ul>
 <li><strong>Systems Programming:</strong> C, C++, Rust</li>
-<li><strong>Application & Scripting:</strong> Python, Ruby, PHP, Java, C#, Swift, JavaScript, TypeScript, Lua, Lisp, Julia</li>
+<li><strong>Application & Scripting:</strong> Python, Ruby, PHP, Java, Swift, JavaScript, TypeScript, Lua, Lisp, Julia</li>
 <li><strong>Legacy & Mobile:</strong> Objective-C</li>
 <li><strong>Low-Level:</strong> Assembly</li>
 <li><strong>Command Line:</strong> Bash / Shell, Windows Scripting (Batch, PowerShell)</li>
@@ -18,7 +18,6 @@ Marcus Horn
 <p align="left">
 <a href="https://www.cprogramming.com/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="40" height="40"></a>
 <a href="https://isocpp.org/std/the-standard" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"></a>
 <a href="https://www.java.com" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="40" height="40"></a>
 <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" alt="Objective C" width="40" height="40"></a>
 <a href="https://www.swift.org" rel="nofollow"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"></a>
